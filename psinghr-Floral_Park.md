@@ -7,3 +7,4 @@
 ### Places to Go
 - Rigo Park
 - School Playground
+- more location to come
