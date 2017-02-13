@@ -1,4 +1,5 @@
 # Teaneck, NJ
+- Today: Cold and wet
 
 ### Food Recommendations
 - Noah's Ark
