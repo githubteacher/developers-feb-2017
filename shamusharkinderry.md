@@ -1,4 +1,4 @@
-# Derry ireland
+# Derry Norn Ireland
 
 ### Food recomendations
 - walled city brewery
