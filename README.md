@@ -6,6 +6,9 @@
  - Eric Hollenberry (@hollenberry)
  - Hector Alfaro (@hectorsector)
 
+## Chat with Us on Gitter!
+- [Gitter](https://gitter.im/open-enrollment/developers-feb-2017?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ## Give Us Feedback!
 
 Please take a moment to complete the class survey at: http://www.surveygizmo.com/s3/3129009/9ac0ef5c9108.
