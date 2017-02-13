@@ -1,4 +1,5 @@
 # Hamburg
+- First time sun today
 
 ### Food
 - Bratwurst
