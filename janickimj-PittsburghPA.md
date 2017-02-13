@@ -1,4 +1,5 @@
 # Pittsburgh, PA
+- It's sunny. For once.
 
 ### Food Recommendations
 - Two Louie's 
