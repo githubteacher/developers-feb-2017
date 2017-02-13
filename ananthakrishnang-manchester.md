@@ -1,4 +1,5 @@
 # Manchester, CT
+- It is 15 degress today
 
 ### Food Recommendations
 - sublime
