@@ -1,4 +1,5 @@
 # BELFAST, Northern Ireland
+- It is 6 degrees celsius
 
 ### Food Recommendations
 - Nandos
