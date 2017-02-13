@@ -1,5 +1,7 @@
 # Bogota, Colombia
 
+- Es un dia soleado
+
 ### Food Recommendations
 
 - Bandeja Paisa
