@@ -1,7 +1,13 @@
 # suresh753_bhimavaram
 
 
-### chapati, roti and rice
+### Food Recommendations
+-chapati
+-roti 
+-rice
 
 
-### tajmahal , hyderabad and amaravathi
+### Places to GO
+- tajmahal 
+- hyderabad
+- amaravathi
