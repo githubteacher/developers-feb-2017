@@ -6,6 +6,6 @@
 - Roots
 
 ### Places to Go
-- Coronado
-- Balboa Park
-- North Park 
+- MAM
+- Miller Park
+- Lake Park 
