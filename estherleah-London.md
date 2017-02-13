@@ -1,4 +1,5 @@
 # London, UK
+- It is cold today.
 
 ### Food Recommendations
 - Sushi Haven
