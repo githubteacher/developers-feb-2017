@@ -10,5 +10,4 @@
 
 * Barton Springs
 * Draughthouse Pub
-* Austin Beerworks
-    Their best beer is Fire Eagle IPA.
+* Austin Beerworks. Their best beer is Fire Eagle IPA.
