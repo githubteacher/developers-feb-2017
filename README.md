@@ -19,7 +19,7 @@ Please take a moment to complete the class survey at: http://www.surveygizmo.com
 
 ## Resources
 
-- [GitHub for Developers Manual](manual/github-for-developers-student-manual.pdf)
+- [GitHub for Developers Manual](github-for-developers-student-manual.pdf)
 - [git-scm](https://git-scm.com)
 
 ## Playgrounds for practicing branching
