@@ -1,4 +1,5 @@
 # San Diego, CA
+- It is 70 degrees and sunny today. 
 
 ### Food Recommendations
 - City Tacos
