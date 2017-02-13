@@ -1,4 +1,5 @@
 # Hamburg, Germany
+- its quite cold
 
 ### Food Recommendations
 - Atelier F
