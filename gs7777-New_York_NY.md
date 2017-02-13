@@ -7,3 +7,6 @@
 
 
 ### Place to Go
+- Times Square
+- Central Park
+- Statue of Liberty
