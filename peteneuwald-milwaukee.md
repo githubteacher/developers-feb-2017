@@ -1,9 +1,9 @@
 # Milwaukee, WI
 
 ### Food Recommendations
-- City Tacos
-- Rustic Root
-- Sublime
+- Good City
+- Braise
+- Roots
 
 ### Places to Go
 - Coronado
