@@ -8,3 +8,4 @@
 ### Places to go
 
 	Sukhna Lake
+	Rock Garden
