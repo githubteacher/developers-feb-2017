@@ -1,4 +1,5 @@
 # Cambridge, MA
+Cold and snowy on weekend
 
 ### Food Recommendations
 - Grendel's Den
