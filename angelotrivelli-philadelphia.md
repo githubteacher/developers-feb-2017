@@ -5,10 +5,12 @@ Hello World
 # Philadelphia PA
 
 ### Food recommendations
-
-Bibou
-
-
+ - Bibou
+ - Fond
+ - Butcher Bar
+ 
+ 
 ### Places to visit
-
-Independence Hall
+ - Independence Hall
+ - Liberty Bell
+ 
