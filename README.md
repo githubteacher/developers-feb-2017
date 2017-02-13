@@ -1,5 +1,4 @@
 # GitHub for Developers
-#
 
 - February 13 - 14, 2017
 - Facilitators:
