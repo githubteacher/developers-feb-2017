@@ -1,5 +1,5 @@
 ## HOMETOWN recommendations
 
-## Great Places to #at
+## Great Places to Eat
 
 ## Fun Things to Do
