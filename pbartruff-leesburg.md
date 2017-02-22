@@ -1,5 +1,5 @@
 # Leesburg, VA
-
+- it is around 67 Deg F.
 ### Food Recommendations
 - Windy City Red Hots
 - Lionfoot
