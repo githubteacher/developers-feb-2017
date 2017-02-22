@@ -7,4 +7,5 @@ John's Pizza
 
 ## Fun Things to Do
 biking
+golfing
 hiking
