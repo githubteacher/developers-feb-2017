@@ -2,8 +2,9 @@
 
 ### Food Recommendations
 - City Arepas
-- La puerta falsa
+- La Puerta Falsa
 
 ### Places to Go
 - Monserrate
-- Museo del oro
+- Museo del Oro
+- El Chorro de Quevedo
